@@ -4,9 +4,6 @@ Protonmail "developed" their own paid desktop application using electron, which 
 
 So I created another desktop protonmail application using Tauri. 
 
-```markdown
-# ProtonMail Desktop
-
 An open-source, unofficial desktop application for ProtonMail built using Tauri.
 
 ## Description
