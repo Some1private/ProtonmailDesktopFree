@@ -1,0 +1,15 @@
+{
+  "name": "Protonmail",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A desktop client for Protonmail built with Tauri",
+  "type": "module",
+  "scripts": {
+    "tauri": "tauri",
+    "build": "tauri build",
+    "build-installer": "tauri build --target nsis"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1"
+  }
+}

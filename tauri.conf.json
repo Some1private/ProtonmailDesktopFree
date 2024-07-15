@@ -1,0 +1,44 @@
+{
+  "build": {
+    "devPath": "../src",
+    "distDir": "../src",
+    "withGlobalTauri": true
+  },
+  "package": {
+    "productName": "Protonmail",
+    "version": "1.0.0"
+  },
+  "tauri": {
+    "allowlist": {
+      "all": false,
+      "shell": {
+        "all": false,
+        "open": true
+      }
+    },
+    "windows": [
+      {
+        "title": "Protonmail",
+        "width": 800,
+        "height": 600,
+        "fullscreen": false,
+        "resizable": true,
+        "url": "https://mail.proton.me/u/0/inbox"
+      }
+    ],
+    "security": {
+      "csp": null
+    },
+    "bundle": {
+      "active": true,
+      "targets": "nsis",
+      "identifier": "com.protonmail.elijah.dev",
+      "icon": [
+        "icons/icon.ico"
+      ],
+      "copyright": "© 2023 Your Name",
+      "shortDescription": "Protonmail Desktop Client",
+      "longDescription": "A desktop client for Protonmail built with Tauri"
+    }
+  }
+}
