@@ -1,4 +1,4 @@
-Edit: Added a minimize tray version when the application will be minimized to tray instead of exiting the application.
+Edit: Added a minimize tray version where the application will be minimized to tray instead of exiting the application.
 
 Protonmail "developed" their own paid desktop application using electron, which took me 5 minutes to create with electron but it was detected by protonmail and I couldn't bypass the paywall.
 
