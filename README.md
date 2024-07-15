@@ -1,5 +1,3 @@
-# ProtonmailDesktopFree
-
 Protonmail "developed" their own paid desktop application using electron, which took me 5 minutes to create with electron but it was detected by protonmail and I couldn't bypass the paywall.
 
 So I created another desktop protonmail application using Tauri. 
