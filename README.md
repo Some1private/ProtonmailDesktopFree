@@ -11,19 +11,19 @@ An open-source, unofficial desktop application for ProtonMail built using Tauri.
 
 ## Description
 
-This project is a lightweight, cross-platform desktop application that wraps the ProtonMail web interface. It provides a native-like experience for ProtonMail users on desktop operating systems.
+This project is a lightweight, Windows desktop application that wraps the ProtonMail web interface. It provides a native-like experience for ProtonMail users on desktop operating systems.
 
 ## Features
 
 - Native desktop application experience for ProtonMail
-- Cross-platform support (Windows, macOS, Linux)
 - Lightweight and fast, powered by Tauri
+- Supports notifications
+- Portable and install versions available
 
 ## Installation
 
-1. Go to the [Releases](https://github.com/yourusername/protonmail-desktop/releases) page.
-2. Download the appropriate version for your operating system.
-3. Install the application following your OS-specific installation process.
+1. Go to the [Releases](https://github.com/Some1private/ProtonmailDesktopFree/releases) page.
+2. Download the application and install it or alternatively download the portable version and launch it right away.
 
 ## Building from Source
 
@@ -33,7 +33,7 @@ To build the application from source, follow these steps:
 
 2. Clone the repository:
    ```
-   git clone https://github.com/yourusername/protonmail-desktop.git
+   git clone https://github.com/Some1private/ProtonmailDesktopFree.git
    cd protonmail-desktop
    ```
 
